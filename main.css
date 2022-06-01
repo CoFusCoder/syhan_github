@@ -7,11 +7,6 @@
     border: rgb(117, 174, 201) 5px solid;
     padding: 2em;
   }
- 
-  #infoUl a:hover{
-      color: rgb(255, 121, 11);
-  }
- 
   .job-title{
       color: gray;
       font-weight: bold;
